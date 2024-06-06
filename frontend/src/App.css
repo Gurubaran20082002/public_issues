@@ -1,0 +1,132 @@
+
+/* #body{
+  background: fixed;
+  background-size: 100% 100%;
+  background-image: url('https://wallpapers.com/images/featured/dark-gradient-6bly12umg2d4psr2.webp');
+} */
+/* #r1{
+  background-color: whitesmoke;
+}
+#r2{
+  background-color: rgb(29, 177, 182);
+}
+#r3{
+  background: fixed;
+  background-size: 100% 100%;
+  background-image: url('https://t4.ftcdn.net/jpg/04/40/28/65/240_F_440286531_BI3ppCc6Ub0ruPk9Msx9HTXE1sE3f7jg.jpg');
+}
+#r4{
+  font-size: large;font-weight: bold;
+}
+#r5{
+  background-color:rgb(29, 177, 182);
+}
+#r6{
+  color:blue
+}
+.r8{
+  height: 500px;
+} */
+
+
+#i1{
+  background: fixed;background-size: 100% 100%;background-image: url('https://wallpapers.com/images/featured/dark-gradient-6bly12umg2d4psr2.webp');
+}
+#i2{
+  background-color: whitesmoke;
+}
+#i3{
+  background-color: rgb(29, 177, 182);
+}
+#i4{
+  background: fixed;
+  background-size: 100% 100%;
+  background-image: url('https://t4.ftcdn.net/jpg/04/40/28/65/240_F_440286531_BI3ppCc6Ub0ruPk9Msx9HTXE1sE3f7jg.jpg');
+}
+#i6{
+  background-color:rgb(29, 177, 182);
+}
+.i5{
+  height: 500px;
+}
+#i7{
+  font-size: large;font-weight: bold;
+}
+#g1{
+  background: fixed;
+  background-size: 100% 100%;
+  background-image: url('pics.jpg');
+  opacity: 0.5;
+}
+#g2{
+  border-radius: 30px; 
+}
+#t1{
+  background: fixed;
+  background-size: 100% 100%;
+  background-image: url('https://t3.ftcdn.net/jpg/02/69/78/12/360_F_269781273_iFKYnEwu9CTD6t7jcJ6O8CemL9JntygS.jpg');
+}
+#t2{
+  background-color: rgb(94, 92, 92);
+}
+#t3{
+  font-size:14px;
+}
+#t4{
+  font-size: 14px;
+  background-color: rgb(94, 92, 92);
+}
+#t5{
+  width: 300px;
+}
+#t6{
+  height: 70px;
+}
+#t7{
+  font-size:14px;
+}
+#t8{
+  font-size:14px;
+}
+#t9{
+  font-weight: bolder;
+}
+#t10{
+  /* background: fixed; */
+  background-size: 100% 100%;
+  background-image: url('kur.jpg');
+}
+#d1{
+  background: fixed;
+  background-size: 100% 100%;
+  background-image: url('https://cdn.dribbble.com/users/469578/screenshots/3571026/conversation.gif');
+  height: 450px;
+
+}
+#d2{
+  width: 300px;
+}
+#eb1{
+  background: fixed;background-size: 700px 669px;background-image: url("https://www.repsol.com/content/dam/repsol-corporate/es/energia-e-innovacion/energia%20electrica%20cables%20alta%20tension.jpg");
+}
+#eb2{
+  border-radius: 30px;
+}
+#r1{
+  background: fixed;background-size: 700px 669px;background-image: url("https://www.tnrsp.tn.gov.in/images/activities/road.png");
+}
+#r2{
+  border-radius: 30px;
+}
+#r3{
+  height: 30px;width: 30px;
+}
+#pc1{
+  background: fixed;background-size: 700px 669px;background-image: url(https://unsophisticatedonline.files.wordpress.com/2019/09/prevention-and-control-of-pollution-500x500.jpg?w=720);
+}
+#pc2{
+  height: 30px;width: 30px;
+}
+#pc3{
+  border-radius: 30px;
+}
